@@ -126,6 +126,3 @@ The game opens with:
 **Ashish Kumar Prajapati**
 
 ---
-✔ GitHub Tags/Topics
-✔ Release Notes
-✔
