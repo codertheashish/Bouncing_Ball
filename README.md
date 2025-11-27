@@ -78,7 +78,7 @@ pip install pygame
 2️⃣ Clone the repository:
 
 ```bash
-https://github.com/youruser/BouncingBallGame.git
+https://github.com/codertheashish/Bouncing_Ball.git
 ```
 
 3️⃣ Run the game:
